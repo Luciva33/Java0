@@ -5,7 +5,7 @@ public class Main2 {
 		// TODO 自動生成されたメソッド・スタブ
         int age;
         age = 30;
-        System.out.println(age);
+        System.out.println("三田です");
 	}
 
 }
